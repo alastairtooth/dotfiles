@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = alastairtooth@gmail.com
+	name = Alastair Tooth
